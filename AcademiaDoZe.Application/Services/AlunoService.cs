@@ -6,7 +6,7 @@ using AcademiaDoZe.Application.Mappings;
 using AcademiaDoZe.Application.Security;
 using AcademiaDoZe.Domain.Repositories;
 
-namespace AcademiaDoZe.Application_.Services;
+namespace AcademiaDoZe.Application.Services;
 
 public class AlunoService : IAlunoService
 {

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>AcademiaDoZe.Domain</Assembly>
+    <Class>AcademiaDoZe.Domain.Entities.Colaborador</Class>
+    <MethodName>Criar(...)</MethodName>
+    <ShortName />
+    <Line>28</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>38</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>

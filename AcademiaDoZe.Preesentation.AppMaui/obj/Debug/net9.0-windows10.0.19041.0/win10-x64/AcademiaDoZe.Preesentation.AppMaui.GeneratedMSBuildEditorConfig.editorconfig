@@ -1,0 +1,82 @@
+is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.19041.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AcademiaDoZe.Presentation.AppMaui
+build_property.ProjectDir = C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Preesentation.AppMaui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Views/ConfigPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.ConfigPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ConfigPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ConfigPage.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Views/DashboardListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.DashboardListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DashboardListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DashboardListPage.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Views/LogradouroListPage.xaml.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.LogradouroListPage.xaml.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LogradouroListPage.xaml.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LogradouroListPage.xaml.xaml
+
+[C:/Users/gabri/OneDrive/Área de Trabalho/AcademiaZe - Meu/AcademiaDoZe/AcademiaDoZe.Preesentation.AppMaui/Views/LogradouroPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AcademiaDoZe.Presentation.AppMaui.Views.LogradouroPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LogradouroPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LogradouroPage.xaml

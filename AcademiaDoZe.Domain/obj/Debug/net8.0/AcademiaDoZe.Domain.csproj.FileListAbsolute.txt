@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\bin\Debug\net8.0\AcademiaDoZe.Domain.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\bin\Debug\net8.0\AcademiaDoZe.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\bin\Debug\net8.0\AcademiaDoZe.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\refint\AcademiaDoZe.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\AcademiaDoZe.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Domain\obj\Debug\net8.0\ref\AcademiaDoZe.Domain.dll

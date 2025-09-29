@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\bin\Debug\net8.0\AcademiaDoZe.Infraestructure.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\bin\Debug\net8.0\AcademiaDoZe.Infraestructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\bin\Debug\net8.0\AcademiaDoZe.Infraestructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\bin\Debug\net8.0\AcademiaDoZe.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\bin\Debug\net8.0\AcademiaDoZe.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\Academia.0210CA46.Up2Date
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\refint\AcademiaDoZe.Infraestructure.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\AcademiaDoZe.Infraestructure.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\AcademiaZe - Meu\AcademiaDoZe\AcademiaDoZe.Infraestructure\obj\Debug\net8.0\ref\AcademiaDoZe.Infraestructure.dll
